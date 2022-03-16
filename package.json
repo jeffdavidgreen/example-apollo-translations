@@ -1,5 +1,5 @@
 {
-  "name": "translations-per-service",
+  "name": "example-apollo-translations",
   "description": "",
   "license": "MIT",
   "main": "index.js",
