@@ -1,0 +1,5 @@
+{
+  "hello": "Bonjour {name}",
+  "greetings": "Salutations {name}!",
+  "together": "Bonjour, {name} ! Le {date} à {time}, le total de votre commande était de {amount}."
+}

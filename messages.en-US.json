@@ -1,0 +1,4 @@
+{
+  "hello": "Hello, {name}",
+  "together": "Hello, {name}! On {date} at {time} your order total was {amount}."
+}

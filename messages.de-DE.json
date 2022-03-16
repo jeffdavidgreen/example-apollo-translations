@@ -1,0 +1,5 @@
+{
+  "hello": "Hallo {name}",
+  "greetings": "Grüße {name}!",
+  "together": "Hallo, {name}! Am {date} um {time} betrug die Gesamtsumme Ihrer Bestellung {amount}."
+}
